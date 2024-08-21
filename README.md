@@ -9,7 +9,7 @@ Maintaining Project Integrity: Version control helps maintain project integrity 
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-
+# Answer
 Process:
 
 Sign in to GitHub: Log in to your GitHub account.Pull Requests (PRs): A pull request is a way to propose changes to a codebase and have them reviewed before merging.
